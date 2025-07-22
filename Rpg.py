@@ -21,7 +21,7 @@ def op():
     global enemyHealth
     global playerHealth
     while not(enemyHealth<=0 or playerHealth<=0):
-        options = int(input("Choose Your Move and beat the monster\n1.Attack\n2.Heal\n-->"))
+        options = int(input("Choose Your Move and beat the monster\n1.Attack 🔫\n2.Heal ❤️\n-->"))
         match options:
             case 1:
                 print("\n➡️ You chose Attack!")
@@ -35,7 +35,7 @@ def op():
                 health = random.randint(1,6)
                 if playerHealth+health<=100:
                     playerHealth = playerHealth + health
-                    print(f"\nYour Health Increases by {health}\n")
+                    print(f"\nYour Health Increases by {health} ❤️\n")
                     show(enemyHealth,playerHealth)
                 else:
                     print("\nYour Health is Full\n")
