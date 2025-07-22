@@ -10,8 +10,8 @@ You play as the **Saviour** 🦸‍♂️ defending Earth 🌍 from a deadly ali
 
 - You and the enemy alien both start with **100 health**.
 - Choose your move:
-  - `1. Attack` 🔫 – Deal random damage (10–20) to the enemy.
-  - `2. Heal` ❤️ – Heal yourself by a small random amount (1–6).
+  - `1. Attack` 🔫 – Deal random damage to the enemy.
+  - `2. Heal` ❤️ – Heal yourself.
 - After your turn, the enemy automatically attacks you.
 - Game ends when either health drops to **0** or below.
 - Victory or defeat depends on your choices!
