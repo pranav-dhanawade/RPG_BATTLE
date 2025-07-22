@@ -28,7 +28,6 @@ You play as the **Saviour** 🦸‍♂️ defending Earth 🌍 from a deadly ali
 copy repository in your localhost and run:
 
 ```bash
-python alien_battle.py
 
 
 Gameplay Preview
